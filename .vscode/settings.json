@@ -1,0 +1,10 @@
+{
+	"phpSniffer.executablesFolder": "vendor\\bin",
+    "editor.formatOnSave": true,
+    "[php]": {
+        "editor.defaultFormatter": "wongjn.php-sniffer",
+        "editor.tabSize": 4,
+        "editor.insertSpaces": false
+    },
+    "files.eol": "\n",
+}
